@@ -4,8 +4,7 @@ Automation test for Dailytelegraph website using [GalenFramework](http://galenfr
 
 ### Setup
 
- - Download [chromedriver](http://chromedriver.storage.googleapis.com/index.html), extract downloaded package then add the folder to your path like this:
- 	export PATH=$PATH:~/path/to/directory/containing/chromedriver
+ - Download [chromedriver](http://chromedriver.storage.googleapis.com/index.html), extract downloaded package then add the folder to your path like this: export PATH=$PATH:~/path/to/directory/containing/chromedriver
  - Install [Galen](http://galenframework.com/docs/getting-started-install-galen/).
  
 ### Run test
