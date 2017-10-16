@@ -1,0 +1,8 @@
+@import ../../object/objects_blogs.gspec
+
+= Component title =
+    componenttitle-text:
+       text is "LATEST POSTS"
+       css font-family contains "Roboto Condensed"
+       css font-weight is "bold"
+       css line-height is "20px"

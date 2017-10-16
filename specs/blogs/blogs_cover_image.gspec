@@ -1,0 +1,6 @@
+@import ../../object/objects_blogs.gspec
+
+= Blogger cover image =
+    blogger-header-cover-img:
+        width   1000px
+        height  200px

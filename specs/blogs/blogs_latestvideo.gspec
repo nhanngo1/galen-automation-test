@@ -1,0 +1,10 @@
+@import ../../object/objects_blogs.gspec
+
+= Latest Video =
+    latest-video-playlist-item:
+        css background is "rgb(35, 35, 35) none repeat scroll 0% 0% / auto padding-box border-box"
+        css color is "rgba(35, 35, 35, 1)"
+        css font-size is "16px"
+        css line-height is "20px"
+        css font-family contains "Roboto"
+        

@@ -1,0 +1,17 @@
+#### Description: repository of objects used on spec files
+####    DO NOT add tests to this file
+#### Date               Author                      Comment
+#### 03/08/2017         Thi Nguyen                  Create new class
+################################################################################
+
+@objects
+##---MREC header-----
+    mrec-header                   .img_ad
+##---MREC on right hand side column-----
+    mrec-right-column             .tge-ad tge-ad-mrec
+##---Horoscopes header avatar--------
+    horoscope-header-avatar       .tge-horoscope-header_avatar
+##---Horoscopes component title text--------
+    horoscope-title-text          .tge-componenttitle_text
+##---Horoscopes header title text--------
+    horoscope-header-meta-date    .tge-horoscope-header_meta-date

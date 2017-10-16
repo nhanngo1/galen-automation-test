@@ -1,0 +1,9 @@
+@import ../../object/objects_blogs.gspec
+
+= Blogger identity =
+    blogger-identity-name-text:
+        css font-family contains "Roboto Condensed"
+    blogger-identity-social-title:
+        css font-family contains "Roboto"
+        css font-size is "16px"
+        css line-height is "20px"

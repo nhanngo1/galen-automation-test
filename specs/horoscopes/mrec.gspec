@@ -1,0 +1,13 @@
+#### Description: test ui for MREC on horoscope page
+#### Date               Author                      Comment
+#### 03/08/2017         Thi Nguyen                  Create new class
+################################################################################
+
+@import ../object/objects_horoscopes.gspec
+
+###-- Testing Mrect locate in header of Horoscopes page-------
+= Mrec header =
+    mrec-header:
+       width 1000px
+       height  50px
+###-- Testing Mrect locate in right hand side column of Horoscopes page-------

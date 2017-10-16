@@ -1,0 +1,7 @@
+@import ../../object/objects_blogs.gspec
+
+= Show More button =
+    button-showmore-icon:
+        css width is "24px"
+        css height is "24px"
+        css border-radius is "50px"

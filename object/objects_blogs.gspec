@@ -1,0 +1,28 @@
+#### Description: repository of objects used on spec files
+####    DO NOT add tests to this file
+#### Date               Author                      Comment
+#### 23/08/2017         Thi Nguyen                  Create new class
+################################################################################
+
+@objects
+##---Cover Image-----
+    blogger-header-cover-img                .tgc-blogger-header_cover-img
+    blogger-identity-profile-picture        .tge-blogger-identity_profile-picture
+    blogger-identity-name-text              .tge-blogger-identity_name_text
+    blogger-identity-social-title           .tge-blogger-identity_social_title
+## To Do : Check some more social icon
+    componenttitle-text                     .tge-componenttitle_text
+    article-title-text                      .tge-cardv2_title
+    article-standfirst-text                 .tge-cardv2_standfirst
+    article-meta-time-ago-text              .tge-cardv2_meta-time-ago_text
+    article-image                           .tge-cardv2_img
+    article-opacity                         .tge-cardv2
+    article-cardv2_meta                     .tge-cardv2_meta
+##---Show More Button-------
+    button-showmore-icon                    .tge-button_icon
+    button-showmore-text                    .tge-button_text
+##---Check carousal -------
+    
+##---Check Latest Video------
+    latest-video-playlist-item             .tge-playlist-item
+    

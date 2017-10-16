@@ -1,0 +1,18 @@
+@import ../../object/objects_blogs.gspec
+= Article page =
+    article-title-text:
+        css font-family contains "Roboto Condensed"
+    article-standfirst-text:
+        css font-family contains "Roboto"
+        css font-size is "16px"
+        css line-height is "20px"
+    article-cardv2_meta:
+        css font-family contains "Roboto"
+        css font-size is "14px"
+        css line-height is "16px"
+    article-image:
+        css position is "absolute"
+        css top is "0px"
+        css left is "0px"
+        css width is "206.797px"
+        css height is "155.094px"

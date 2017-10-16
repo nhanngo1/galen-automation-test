@@ -1,0 +1,18 @@
+#### Description: UI test file for description part in Horoscope page
+#### Date               Author                      Comment
+#### 03/08/2017         Thi Nguyen                  Create new class
+################################################################################
+
+@import ../../object/objects_horoscopes.gspec
+
+###-- Testing header headline -------
+= Header headline =
+    horoscope-header-avatar:
+        width   84px
+        height  84px 
+    horoscope-title-text:
+        text is "HOROSCOPES BY OSCAR CAINER"
+        css font-family contains "Roboto Condensed"
+###-- Testing header meta -------
+    horoscope-header-meta-date:
+        color-scheme 10% #ec3596
