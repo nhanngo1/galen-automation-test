@@ -9,7 +9,7 @@ Automation test for Dailytelegraph website using [GalenFramework](http://galenfr
  
 ### Run test
 
- - Open terminal, navigate to galen-automation-test folder and execute command:<br/>   galen test test/test-file.js --htmlreport report-folder-name . 
+ - Open terminal, navigate to galen-automation-test folder and execute command:<br/>   galen test test/test-file.js --htmlreport report-folder-name<br/> 
  	e.g. galen test test/func.blog.test.js --htmlreport report
 
  	Please refer to [Running Galen](http://galenframework.com/docs/reference-working-in-command-line/) for more details.
